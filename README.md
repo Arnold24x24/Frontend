@@ -1,6 +1,6 @@
 # FrontendApp
 
-This project was generated with [Vue Framework](https://vuejs.org/) and [PrimeVue](https://primevue.org/)
+This project was generated with [Vue.js](https://vuejs.org/) and [PrimeVue](https://primevue.org/)
 
 ## Development server
 
@@ -21,4 +21,4 @@ Install `npm install cypress --save-dev` and run `npx cypress open` for execute 
 
 ##Further Help
 
-To get more help on the PrimeVue go check out their [page](https://apollo.primevue.org/documentation).
+To get more help on the Vue.js go check out their [page](https://apollo.primevue.org/documentation).
